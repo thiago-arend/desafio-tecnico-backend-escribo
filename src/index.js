@@ -11,4 +11,6 @@ export function sumAllIntegersDivisible(limit) {
 }
 
 const parameterFromTerminal = Number(process.argv[2]);
-console.log(sumAllIntegersDivisible(parameterFromTerminal));
+if (parameterFromTerminal) {
+    console.log(sumAllIntegersDivisible(parameterFromTerminal));
+}
