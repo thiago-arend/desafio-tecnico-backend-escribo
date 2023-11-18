@@ -1,4 +1,4 @@
-function sumAllIntegersDivisible(limit) {
+export function sumAllIntegersDivisible(limit) {
     let accumulatedSum = 0;
 
     for (let i = 3; i < limit; i++) {
