@@ -12,7 +12,7 @@ Também deveriam ser desenvolvidos testes da funcionalidade.
 
 ## Rodando localmente
 
-* <b>Observação:</b> esse projeto foi criado com a versão <b>20.8.0</b> do <b>Node.js</b> *
+<b>Observação:</b> esse projeto foi criado com a versão <b>20.8.0</b> do <b>Node.js</b>
 
 Clone o projeto
 
