@@ -1,5 +1,5 @@
-module.exports = {
-    testEnvironment: 'jest-environment-node',
+export default {
+    testEnvironment: 'node',
     transform: {
         "^.+\\.jsx?$": "babel-jest"
     },

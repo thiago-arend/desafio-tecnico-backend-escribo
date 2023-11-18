@@ -41,6 +41,10 @@ describe("sumAllIntegersDivisible unit tests", () => {
         expect(sumAllIntegersDivisible(10)).toBe(23);
     });
 
+    it("should return 33 when passing 11 as argument.", () => {
+        expect(sumAllIntegersDivisible(11)).toBe(33);
+    });
+
     it("should return 2318 when passing 100 as argument.", () => {
         expect(sumAllIntegersDivisible(100)).toBe(2318);
     });
